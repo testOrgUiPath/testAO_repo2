@@ -8203,9 +8203,9 @@
     "restore": {
       "projectUniqueName": "WinLegacy_VB_SEQ",
       "projectName": "WinLegacy_VB_SEQ",
-      "projectPath": "C:\\Users\\alexandru.hertanu\\Documents\\UiPath\\WinLegacy_VB_SEQ\\.local",
+      "projectPath": "C:\\Users\\alexandru.hertanu\\Documents\\UiPath\\TestAutomationOps\\WFs\\WinLegacy_VB_SEQ\\.local",
       "packagesPath": "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\alexandru.hertanu\\Documents\\UiPath\\WinLegacy_VB_SEQ\\.local"
+      "outputPath": "C:\\Users\\alexandru.hertanu\\Documents\\UiPath\\TestAutomationOps\\WFs\\WinLegacy_VB_SEQ\\.local"
     },
     "frameworks": {
       "net461": {

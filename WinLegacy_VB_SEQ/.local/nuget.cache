@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "wDavJ3gy/y555uaeh+KWFZffeM5eB2/uLRd38gNIjORN7oYhCfEj4PD18IJldZESMvbLM6khkdpQrZ6uoOlSAA==",
+  "dgSpecHash": "6epvFBJc4u+KOIkYlSSD0nn9CQ168w0GYmbVPvtnfhDLkx49VxiV/Xv9AMltyp/VYC6b+2LUo1nOEkITzO24wQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexandru.hertanu\\Documents\\UiPath\\WinLegacy_VB_SEQ\\.local\\",
+  "projectFilePath": "C:\\Users\\alexandru.hertanu\\Documents\\UiPath\\TestAutomationOps\\WFs\\WinLegacy_VB_SEQ\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
