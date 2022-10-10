@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cB2Amo4Z0lryds8iSf4tZgUgXTgtSwxAHkd78qcFAvFEDooGufkysrKECJ3yXP6b0IxgWrPruZuWzMvNzjCbtg==",
-  "success": false,
-  "projectFilePath": "C:\\Users\\alexandru.hertanu\\Documents\\UiPath\\TestAutomationOps\\WFs\\WinLegacy_C_SEQ\\.local\\",
+  "dgSpecHash": "mYCS5X4N7SiyeU9z0KwhLCiPVThVALn/cyPMnBidrcDjXp1rbSniBPWczZl/PQQ8/Fo8wiH50V3yuk5ObWSVmA==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alexandru.hertanu\\Documents\\GitHub\\testAO_repo2\\WinLegacy_C_SEQ\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
@@ -103,12 +103,5 @@
     "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.uiautomation.activities\\22.4.0-preview\\uipath.uiautomation.activities.22.4.0-preview.nupkg.sha512",
     "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.vision\\3.3.0-preview\\uipath.vision.3.3.0-preview.nupkg.sha512"
   ],
-  "logs": [
-    {
-      "code": "NU1007",
-      "level": "Error",
-      "filePath": "C:\\Users\\alexandru.hertanu\\Documents\\UiPath\\TestAutomationOps\\WFs\\WinLegacy_C_SEQ\\.local",
-      "message": "The runtime.json specified in the project 'C:\\Users\\alexandru.hertanu\\.nuget\\packages\\uipath.pipelines.activities\\1.17.196.893\\wrapper\\net6.0-windows7.0\\runtime.json' could not be found."
-    }
-  ]
+  "logs": []
 }
