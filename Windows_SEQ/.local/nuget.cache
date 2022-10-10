@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "ewqLlt8t9tVgDifmodJKLFgsYEW0yBYajTSMrgu4kCqZdL/6NLw8tSwJ72AlvzBFMa88HEwj6kgze6VuQawH0A==",
+  "dgSpecHash": "rdgAftHwqdynHYqW4YheJLTK0GxG7zCBFOixeg5h+nDNM1IaQl9Y7ZfPqli3JuQ3HjiHcd0Vrml+n8dH14u6qQ==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexandru.hertanu\\Documents\\UiPath\\TestAutomationOps\\WFs\\Windows_SEQ\\.local\\",
+  "projectFilePath": "C:\\Users\\alexandru.hertanu\\Documents\\GitHub\\testAO_repo2\\Windows_SEQ\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\azure.core\\1.18.0\\azure.core.1.18.0.nupkg.sha512",
     "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\closedxml\\0.95.4\\closedxml.0.95.4.nupkg.sha512",
