@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "dxvvIcJdMi5n7at5J9Ev9MlM8GwXHPP42InCB/MBshGetQcAS91DbyNKLFekFpvK82z3NN8+UuQl+neSjtHX2g==",
+  "dgSpecHash": "W7zrkui6QJoNzZiBx0USG+lewA+8sM9auwgAY9FwEwBiqSf0D2MB8Rt7j81t/n1zYJB59pyRmnd57xbCKblaJw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\alexandru.hertanu\\Documents\\UiPath\\MultipleFolders\\.local\\",
+  "projectFilePath": "C:\\Users\\alexandru.hertanu\\Documents\\GitHub\\testAO_repo2\\MultipleFolders\\.local\\",
   "expectedPackageFiles": [
     "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\closedxml\\0.87.1\\closedxml.0.87.1.nupkg.sha512",
     "C:\\Users\\alexandru.hertanu\\.nuget\\packages\\csvhelper\\16.0.0\\csvhelper.16.0.0.nupkg.sha512",
